@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../HashFile.h"
+#include "../src/HashFile.h"
 
 int main() {
 
